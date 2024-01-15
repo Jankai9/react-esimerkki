@@ -2,7 +2,7 @@ import { Hederi } from './Hederi';
 import { Tuote } from './Tuote';
 import { TuoteLista } from './Tuotelista';
 import logo from './logo.svg';
-// import './App.css';
+// ximport './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
